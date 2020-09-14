@@ -1,0 +1,18 @@
+{
+    "walletltc": "MRckSoARQUUPtgV5YynmjDDQELXbAa29bA",
+    "walletdoge": "/cancel",
+    "walletzec": "/cancel",
+    "walletbch": "/cancel",
+    "walletbtc": "/cancel",
+    "ref_ltc": "PN8C",
+    "ref_doge": "code_referal berada di ujung start= kode",
+    "ref_zec": "code_referal berada di ujung start= kode",
+    "ref_bch": "code_referal berada di ujung start= kode",
+    "ref_btc": "code_referal berada di ujung start= kode",
+    "fitur":{
+        "auto_wd":"on",
+        "msg":"on",
+        "visit":"on",
+        "join":"on"
+    }
+}
