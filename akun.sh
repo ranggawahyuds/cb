@@ -17,9 +17,12 @@ python clickbotv3.1.py +6289694427574 ltc
 python clickbotv3.1.py +6289693721996 ltc
 python clickbotv3.1.py +6289509200181 ltc
 python clickbotv3.1.py +6281256693444 ltc
-python clickbotv3.1.py +13175423037 ltc
-python clickbotv3.1.py +13158137537 ltc
-python clickbotv3.1.py +6289693721996 ltc
+python clickbotv3.1.py +6283856448004 ltc
+python clickbotv3.1.py +6283856448009 ltc
+python clickbotv3.1.py +6283856448853 ltc
+python clickbotv3.1.py +6283856447978 ltc
+python clickbotv3.1.py +6283857169202 ltc
+python clickbotv3.1.py +6283856448850 ltc
 
 x=10000
 while [ $x -gt 0 ]
