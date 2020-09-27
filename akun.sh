@@ -24,7 +24,8 @@ python clickbotv3.1.py +6283856447978 ltc
 python clickbotv3.1.py +6283857169202 ltc
 python clickbotv3.1.py +6283856448850 ltc
 
-x=10000
+
+x=3
 while [ $x -gt 0 ]
 do
 sleep 1s
